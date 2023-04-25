@@ -4,6 +4,9 @@
 
 <html lang="en">
     <head>
+        <title>
+            Hello!
+        </title>
        
     <link rel="stylesheet" href="Style CSS">
     </head>
