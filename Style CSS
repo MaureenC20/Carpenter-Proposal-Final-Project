@@ -1,0 +1,24 @@
+.title
+{
+    text-align: center;
+}
+.orange
+{
+    color: #00008B		;
+}
+.green
+{
+    color:green;
+}
+.right
+{
+    text-align: right;
+}
+.blue
+{
+    color:blue;
+}
+.background
+{
+    background: #f5f5dc;
+}
