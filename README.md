@@ -7,10 +7,10 @@
         <title>
             Hello!
         </title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Style CSS">
     </head>
     <body class="background">
-        <img src="IMG_7142.jpg" alt="Calculus">
+        <img src="Musical Notes.jpeg" alt="Calculus">
         <h1 class="title orange"> Welcome to the Musical Findings! </h1>
         <h2 class="green"> Different genres of music</h2>
         <p> Hip hop is a genre enjoyed by many. Some of the best performers of all time include Rihanna and Drake.
