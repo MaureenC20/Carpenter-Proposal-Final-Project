@@ -8,7 +8,7 @@
             Hello!
         </title>
        
-    <link rel="stylesheet" href="Style CSS">
+    <link rel="stylesheet" href="style.css">
     </head>
     <body class="background">
         <img src="Musical Notes.jpeg" alt="Calculus">
