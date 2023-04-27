@@ -1,12 +1,27 @@
 
 <html lang="en">
     <head>
-   <nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="./code.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Library</li>
-  </ol>
-</nav>
+ <ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">Home</a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Genres</a>
+    <ul class="dropdown-menu">
+      <li><a class="dropdown-item" href="./code.html">Rap</a></li>
+      <li><a class="dropdown-item" href="./code.html">Classical</a></li>
+      <li><a class="dropdown-item" href="./code.html">Rock and Roll</a></li>
+      <li><hr class="dropdown-divider"></li>
+      <li><a class="dropdown-item" href="#">Separated link</a></li>
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled">Disabled</a>
+  </li>
+</ul>
     <link rel="stylesheet" type="text/css" href="https://MaureenC20.github.io/style.css"> 
     </head>
     <body class="background backgroundimage">
