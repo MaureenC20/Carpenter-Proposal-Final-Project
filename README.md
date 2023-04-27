@@ -3,7 +3,7 @@
     <head>
  <ul class="nav nav-pills">
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">Home</a>
+    <a class="nav-link active" aria-current="page" href="https://maureenc20.github.io/Carpenter-Proposal-Final-Project/#">Home</a>
   </li>
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Genres</a>
