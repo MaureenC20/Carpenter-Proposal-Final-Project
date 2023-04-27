@@ -1,9 +1,6 @@
 
 <html lang="en">
     <head>
-        <title>
-          Hello! 
-        </title>
     <link rel="stylesheet" type="text/css" href="https://MaureenC20.github.io/style.css"> 
     </head>
     <body class="background backgroundimage">
@@ -13,7 +10,6 @@
         <p> Hip hop is a genre enjoyed by many. Some of the best performers of all time include Rihanna and Drake.
             However their work is not as well known.</p>
         <p> If you prefer 80s music visit <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ>80s"> music</a>
-            
-        <h3 class="blue"> Explore pop music</h3>
+        <h3 class="blue"> Explore pop music </h3>
     </body>
 </html>
