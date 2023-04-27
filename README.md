@@ -1,10 +1,8 @@
-# Carpenter-Proposal-Final-Project
-<!DOCTYPE html>
 
 <html lang="en">
     <head>
         <title>
-            Hello!
+          Hello! 
         </title>
     <link rel="stylesheet" type="text/css" href="https://MaureenC20.github.io/style.css"> 
     </head>
