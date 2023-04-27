@@ -3,10 +3,11 @@
 
 <html lang="en">
     <head>
+   
 
-    <link rel="stylesheet" href="Style CSS">
+   <link rel="stylesheet" href="Style CSS">
     </head>
-    <body class="background">
+    <body>
         <h1 class="text align: center; color:blue;"> Welcome to the Musical Findings! </h1>
         <h2 class="green"> Different genres of music</h2>
         <img src="Musical Notes.jpeg" alt="Calculus">
