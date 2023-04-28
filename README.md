@@ -1,13 +1,6 @@
 
 <html lang="en">
-    <style>
-    <head{
-  background-image: url('cellist.webp');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}>
-</style>
+    <head>
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#news">News</a>
