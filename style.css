@@ -30,7 +30,6 @@
 {
     color: #CBC3E3;
 }
-<style>
 .navbar {
   overflow: hidden;
   background-color: black;
@@ -84,4 +83,3 @@
 .show {
   display: block;
 }
-</style>
