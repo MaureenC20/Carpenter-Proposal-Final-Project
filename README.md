@@ -36,7 +36,7 @@ window.onclick = function(e) {
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
-}class="background">
+}>
         </style>
         <h1 class="title orange"> Welcome to the Musical Findings! </h1>
         <h2 class="green"> Different genres of music</h2>
