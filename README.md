@@ -47,7 +47,6 @@ window.onclick = function(e) {
             -Rock and Roll
             -Musicals
             -Religious </p>
-        <img src="Musical Notes.jpeg" alt="Musical notes" width="128" height="128">
         <p> Hip hop is a genre enjoyed by many. Some of the best performers of all time include Rihanna and Drake.
             However their work is not as well known.</p>
         <p> If you prefer 80s music visit <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ>80s"> music</a>
