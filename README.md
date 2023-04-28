@@ -15,8 +15,6 @@
   </div>
   </div> 
 </div>
-<h3>Dropdown Menu inside a Navigation Bar</h3>
-<p>Click on the "Dropdown" link to see the dropdown menu.</p>
 <script>
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
