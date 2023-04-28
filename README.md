@@ -24,7 +24,7 @@
 </ul>
     <link rel="stylesheet" type="text/css" href="https://MaureenC20.github.io/style.css"> 
     </head>
-    <body class="backgroundimage">
+    <body class="background">
         <h1 class="title orange"> Welcome to the Musical Findings! </h1>
         <h2 class="green"> Different genres of music</h2>
         <p> -Hip Hop
