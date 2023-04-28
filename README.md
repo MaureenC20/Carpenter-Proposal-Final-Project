@@ -9,7 +9,7 @@
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content" id="myDropdown">
-    <a href="./code.html">Link 1</a>
+    <a href="./code.html">Rap</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
