@@ -1,5 +1,8 @@
 <html lang="en">
     <head>
+        <meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 <div class="navbar">
   <a href="#home" class="w3-bar-item w3-button">Home</a>
   <a href="#news" class="w3-bar-item w3-button">Contact Us</a>
