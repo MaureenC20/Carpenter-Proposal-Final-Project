@@ -29,7 +29,7 @@ window.onclick = function(e) {
 </script>
     <link rel="stylesheet" type="text/css" href="https://MaureenC20.github.io/style.css"> 
     </head>
-    <body style="background-image: url('IMG_7142.jpg');background-size: cover;
+    <body style="background-image: url('cellist.webp');background-size: cover;
   height: 50px;
   position: relative;>
         <h1 class="title orange"> Welcome to the Musical Findings! </h1>
