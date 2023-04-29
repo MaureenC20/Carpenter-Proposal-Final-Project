@@ -1,16 +1,16 @@
 <html lang="en">
     <head>
 <div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">Contact Us</a>
+  <a href="#home" class="w3-bar-item w3-button">Home</a>
+  <a href="#news" class="w3-bar-item w3-button">Contact Us</a>
   <div class="dropdown">
   <button class="dropbtn" onclick="myFunction()">Genres
     <i class="fa fa-caret-down"></i>
   </button>
-  <div class="dropdown-content" id="myDropdown">
-    <a href="./code.html">Disney</a>
-    <a href="#">Classical</a>
-    <a href="#">Rock and Roll</a>
+  <div class="dropdown-content" class="w3-bar-item w3-button" id="myDropdown">
+    <a href="./code.html" class="w3-bar-item w3-button">Disney</a>
+    <a href="#" class="w3-bar-item w3-button">Classical</a>
+    <a href="#" class="w3-bar-item w3-button">Rock and Roll</a>
   </div>
   </div> 
 </div>
