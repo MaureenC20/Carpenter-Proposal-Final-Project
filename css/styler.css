@@ -82,12 +82,12 @@
   text-align: left;
 }
 .dropdown-content a:hover {
-  background-color: white;
+  background-color: black;
 }
 .show {
   display: block;
 }
-h1 {
+h1,p {
     font-weight: 300;
     font-size: 42px;
     text-align: center
