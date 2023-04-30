@@ -82,7 +82,7 @@
   text-align: left;
 }
 .dropdown-content a:hover {
-  background-color: black;
+  background-color: blue;
 }
 .show {
   display: block;
