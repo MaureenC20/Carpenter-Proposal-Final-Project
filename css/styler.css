@@ -87,9 +87,13 @@
 .show {
   display: block;
 }
-h1,p {
+h1 {
     font-weight: 300;
     font-size: 42px;
-    text-align: center
+    text-align: center;
 }
-
+p{
+    font-weight: 200;
+    font-size: 30px;
+    texxt-align:center;
+}
