@@ -2,14 +2,6 @@
 {
     text-align: center;
 }
-.center
-{
-    display: flex;
-    align items: center;
-    justify content: center;
-    width:200%;
-    height: 1000px;
-}
 .orange
 {
     color: #00008B;
@@ -95,4 +87,7 @@
 .show {
   display: block;
 }
-
+h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
