@@ -1,1 +1,49 @@
+<html lang="en">
+    <head>
+          <link href="css/styler.css" rel="stylesheet" type="text/css">
+<div class="navbar">
+  <a href="#home" class="w3-bar-item w3-button">Home</a>
+  <a href="#news" class="w3-bar-item w3-button">Contact Us</a>
+  <div class="dropdown">
+  <button class="dropbtn" onclick="myFunction()">Genres
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-content" class="w3-bar-item w3-button" id="myDropdown">
+    <a href="./code.html" class="w3-bar-item w3-button">Classical</a>
+    <a href="https://www.youtube.com/watch?v=izGwDsrQ1eQ" class="w3-bar-item w3-button">Disney</a>
+    <a href="https://www.youtube.com/watch?v=KwYGI8OjXvo" class="w3-bar-item w3-button">Rock and Roll</a>
+   <a href="https://www.youtube.com/watch?v=ye5BuYf8q4o" class="w3-bar-item w3-button">Country</a>
+   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ>80s" class="w3-bar-item w3-button">Rap</a>
+  </div>
+  </div> 
+</div>
+<script>
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>
+    </head>
+    <body style="background-image: url('cellist.webp');background-size: cover;
+  height: 50px;
+  position: relative;>
+                 <div class="title">          
+                        <h1 class="white"> Welcome to the Musical Express!</h1>
+                 </div>
+    <div class="title">
+        <p class="white"> Fill out our form to receive emails and updates!</p>
+                        </div>
+<form action="{getform-endpoint}" method="POST">
 
+  <input type="text" name="name">
+  <input type="email" name="email">
+  <button type="submit">Send</button>
+
+</form>
