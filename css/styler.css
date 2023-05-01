@@ -92,6 +92,8 @@ h1 {
     font-size: 42px;
     text-align: center;
     font-family: Snell Roundhand;
+    position: relative;
+    top:45px;
 }
 h0 {
     font-weight: 400;
