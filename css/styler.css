@@ -99,6 +99,8 @@ h0 {
     text-align: center;
     font-family: Snell Roundhand;
     position: relative;
+    top: 50px;
+    left: 50px;
 }
 p{
     font-weight: 50;
