@@ -95,11 +95,12 @@ h1 {
 }
 h0 {
     font-weight: 300;
-    font-size: 100px;
+    font-size: 300px;
     text-align: center;
     font-family: Snell Roundhand;
     position: relative;
     top: 300px;
+    left:300px;
 }
 p{
     font-weight: 50;
