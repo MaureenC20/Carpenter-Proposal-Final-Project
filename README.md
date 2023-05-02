@@ -1,5 +1,6 @@
 Final Project
 https://maureenc20.github.io/Carpenter-Proposal-Final-Project/ 
+
 https://youtu.be/le0KUcwrx-o (youtube recording)
 
 Some difficulties I encourtered was trying to link the styling part of the website to Github. I managed to find someone else online who had struggled with that too, and was able to receive positive feedback. Also, sometimes my css file would not update. I realized I had to clear my cache on google chrome. 
