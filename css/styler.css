@@ -107,6 +107,14 @@ p{
     texxt-align:center;
     color: white;
 }
+p0{
+    font-weight: 50;
+    font-size: 20px;
+    text-align:center;
+    color: white;
+    position: relative;
+    top: -20px;
+}
 .whitebox
 {
 background-color:black;
